@@ -1,0 +1,39 @@
+#container{
+    background-color: #7fffd4;
+    height: 80vh;
+}
+
+.play{
+    float: right;
+    position: relative;
+    bottom: 40px;
+    right: 35px;
+    width: 100px;
+}
+
+.quadrato{
+    margin: auto;
+    padding-top: 50px;
+    width: 650px;
+    height: 650px;
+}
+
+.pezzo{
+    display: inline-flex;
+    width: 63px;
+    height: 63px;
+    border: 1px solid;
+    text-align: center;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+}
+
+footer{
+    padding-top: 30px;
+}
+
+img{
+    width: 60px;
+}
